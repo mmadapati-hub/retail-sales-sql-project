@@ -9,5 +9,3 @@ INSERT INTO products VALUES
 INSERT INTO orders VALUES
 (1, 1, 1, '2024-01-10', 2),
 (2, 2, 2, '2024-01-12', 1);
-
-
